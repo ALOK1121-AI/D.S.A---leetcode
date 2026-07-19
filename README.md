@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0018-4sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
