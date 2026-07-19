@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0283-move-zeroes) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0904-fruit-into-baskets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/ALOK1121-AI/D.S.A---leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/alok-singh1121/D.S.A---leetcode/tree/master/1207-unique-number-of-occurrences) |
 ## Sliding Window
